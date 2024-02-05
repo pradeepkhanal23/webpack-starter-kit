@@ -5,12 +5,9 @@ Frontend environment for building Javascript applications.
 Includes following features
 
 - Babel Loader
-- Sass Loader With Dart Sass
+- CSS Loader
 - HTMLWebpackPlugin
 - WebpackDevServer
-- Asset Resource Loader
-- Source Maps
-- Caching
 
 ## Usage
 
